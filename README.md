@@ -20,7 +20,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me: vashaninge@gmail.com or Cell: 360-649-7474 </h2>
 
 [<img align="left" alt="vashaninge | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vashaninge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
