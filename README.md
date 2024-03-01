@@ -17,7 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 - <b>Certifications</b>
-  - CompTIA A+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9725a467-f1d6-41c7-9d7a-f6d948948d5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  - CompTIA A+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9725a467-f1d6-41c7-9d7a-f6d948948d5b" data-share-badge-host="[https://www.credly.com">](https://www.credly.com/badges/9725a467-f1d6-41c7-9d7a-f6d948948d5b/public_url)</div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
