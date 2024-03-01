@@ -22,6 +22,9 @@
   - [CompTIA Security+](https://www.credly.com/badges/cfdb45e3-0d02-4052-9f90-13a7e7f848e9/public_url)
   - [CompTIA Server+](https://www.credly.com/badges/cbef22fb-b444-424b-a118-1fc48d6dab8b/public_url)
   - [Microsoft: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/vashaninge/C0ED86711F7AE08C?sharingId=22D7B897D8697AC5)
+  - [Microsoft: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/vashaninge/49187F9D1421E802?sharingId=22D7B897D8697AC5)
+  - [Google/CompTIA dual credential](https://www.credly.com/badges/16846f1d-037f-406a-ab4b-e87cacf0699b/public_url)
+  - [XM Cyber- Exposure Management Expert](https://www.credly.com/badges/22da823b-962c-4b08-a1fd-abd9c97021c5/public_url)
 
 
 <h2> 🤳 Connect with me: vashaninge@gmail.com or Cell: 360-649-7474 </h2>
