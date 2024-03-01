@@ -17,8 +17,11 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 - <b>Certifications</b>
-  - [CompTIA A+](https://www.credly.com/badges/9725a467-f1d6-41c7-9d7a-f6d948948d5b/public_url) 
-
+  - [CompTIA A+](https://www.credly.com/badges/9725a467-f1d6-41c7-9d7a-f6d948948d5b/public_url)
+  - [CompTIA Network+](https://www.credly.com/badges/157afaa4-280d-4930-8ae3-a028e957ff44/public_url)
+  - [CompTIA Security+](https://www.credly.com/badges/cfdb45e3-0d02-4052-9f90-13a7e7f848e9/public_url)
+  - [CompTIA Server+](https://www.credly.com/badges/cbef22fb-b444-424b-a118-1fc48d6dab8b/public_url)
+  - [Microsoft: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/vashaninge/C0ED86711F7AE08C?sharingId=22D7B897D8697AC5)
 
 
 <h2> 🤳 Connect with me: vashaninge@gmail.com or Cell: 360-649-7474 </h2>
