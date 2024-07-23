@@ -6,11 +6,8 @@
   - [Building an online resume using Microsoft Azure](https://github.com/VaShan77/Cloud-Resume)
 - <b>Creating a Virtual Machine and deploying a Web Server in Azure</b>
   - [Create a VM](https://github.com/VaShan77/Created-A-Virtual-Machine) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Threat Modeling</b>
+  - [Threat and Risk Management with NIST 800-53 & MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/threat-modeling-with-attack)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
@@ -23,6 +20,7 @@
   - [CompTIA Server+](https://www.credly.com/badges/cbef22fb-b444-424b-a118-1fc48d6dab8b/public_url)
   - [Microsoft: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/vashaninge/C0ED86711F7AE08C?sharingId=22D7B897D8697AC5)
   - [Microsoft: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/vashaninge/49187F9D1421E802?sharingId=22D7B897D8697AC5)
+  - [Microsoft: AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/vashaninge/8151363639F23CEC?sharingId=22D7B897D8697AC5)
   - [Google/CompTIA dual credential](https://www.credly.com/badges/16846f1d-037f-406a-ab4b-e87cacf0699b/public_url)
   - [XM Cyber- Exposure Management Expert](https://www.credly.com/badges/22da823b-962c-4b08-a1fd-abd9c97021c5/public_url)
 
