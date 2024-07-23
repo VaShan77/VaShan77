@@ -8,6 +8,7 @@
   - [Create a VM](https://github.com/VaShan77/Created-A-Virtual-Machine) 
 - <b>Threat Modeling</b>
   - [Threat and Risk Management with NIST 800-53 & MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/threat-modeling-with-attack)
+  - [Mapping Controls in ATT&CK](https://github.com/VaShan77/Navigator-Mapping-Demo-and-Lab/tree/main)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
