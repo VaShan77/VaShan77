@@ -9,10 +9,9 @@
 - <b>Threat Modeling</b>
   - [Threat and Risk Management with NIST 800-53 & MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/threat-modeling-with-attack)
   - [Mapping Controls in ATT&CK](https://github.com/VaShan77/Navigator-Mapping-Demo-and-Lab/tree/main)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Blog Writeups</b>
+  - [What is Risk?](https://github.com/VaShan77/VaShan77/blob/main/What%20Is%20Risk%3F)
+    
 
 - <b>Certifications</b>
   - [CompTIA A+](https://www.credly.com/badges/9725a467-f1d6-41c7-9d7a-f6d948948d5b/public_url)
