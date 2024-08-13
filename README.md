@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cloud Resume Challange using Azure</b>
+- <b>Cloud Resume Challenge using Azure</b>
   - [Building an online resume using Microsoft Azure](https://github.com/VaShan77/Cloud-Resume)
 - <b>Creating a Virtual Machine and deploying a Web Server in Azure</b>
   - [Create a VM](https://github.com/VaShan77/Created-A-Virtual-Machine) 
