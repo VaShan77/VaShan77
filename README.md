@@ -11,7 +11,7 @@
   - [Threat and Risk Management with NIST 800-53 & MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/threat-modeling-with-attack)
   - [Mapping Controls in ATT&CK](https://github.com/VaShan77/Navigator-Mapping-Demo-and-Lab/tree/main)
 - <b>Blog Writeups</b>
-  - [What is Risk?](https://github.com/VaShan77/VaShan77/blob/main/What%20Is%20Risk%3F)
+  - [What is Risk?](https://github.com/VaShan77/What-is-Risk-/blob/main/README.md)
     
 
 - <b>Certifications</b>
